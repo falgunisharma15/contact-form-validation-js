@@ -1,0 +1,21 @@
+title: Contact Form with JS Validation
+description: A simple web development task using HTML, CSS, and JavaScript with client-side form validation.
+author: Your Name
+email: falgunisharma15.com
+theme: minima
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Optional GitHub Pages settings
+repository: falgunisharma15/contact-form-validation-js
+baseurl: "" # or "/contact-form-validation-js" if in a subdirectory
+url: "https://falgunisharma15.github.io"
+
+# Build settings
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
